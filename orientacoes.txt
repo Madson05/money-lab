@@ -1,0 +1,5 @@
+Use um emulador de celular para rodar a aplicação. Ela só funciona em disositivos moveis :)
+
+Pode usar F12 e na tela de inspect selecionar as dimensões de um celular. Pode também instalar a extensão do chrome chamada mobile simulator.
+
+Esse é o link dela: https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk
